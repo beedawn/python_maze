@@ -7,15 +7,8 @@ Brandon "Bee" Schmersal
 
 ## Running the application
 
-You can use the supplied Virtual Environment to ensure Python runs with all dependencies 
 
-```bash 
-
-source ./venv/bin/activate 
-
-``` 
-
-Then run the application 
+Make sure you have Python 3 installed, then run.
 
 ```bash 
 
